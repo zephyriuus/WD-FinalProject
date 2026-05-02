@@ -20,17 +20,17 @@
     <img src="../../assets/img/pacman.gif" alt="Left Image" class="side-img left-img">
         <div class="button-group">
             <div class="button-row two-buttons">
-                <a href="../page2/index.html">About Me</a>
-                <a href="../page3/index.html">Hobbies and Skills</a>
+                <a href="../page2/index.php">About Me</a>
+                <a href="../page3/index.php">Hobbies and Skills</a>
             </div>
 
             <div class="button-row two-buttons">
-                <a href="../page4/index.html">Organizations</a>
-                <a href="../page5/index.html">Gallery</a>
+                <a href="../page4/index.php">Organizations</a>
+                <a href="../page5/index.php">Gallery</a>
             </div>
 
             <div class="button-row one-button">
-                <a href="../../index.html" class="exit">Exit</a>
+                <a href="../../index.php" class="exit">Exit</a>
             </div>
         </div>
         <img src="../../assets/img/ghost.gif" alt="Right Image" class="side-img right-img">
